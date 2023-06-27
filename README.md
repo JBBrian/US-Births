@@ -1,7 +1,7 @@
 # SUMMARY
-I chose to take on this project in order to get some insight on the cultural/social implications on pregnancy. I wanted to answer questions like.
+In this project I chose to analysis the births in the U.S. in order to get an understanding of what cultural or social factors may influence pregnancy. 
 # OVERVIEW
-Once my interest was peaked, I searched around for some data about earths population and birth rates. I came accross a [dataset](https://www.kaggle.com/datasets/danbraswell/temporary-us-births) courtesy of kaggle user danbraswell. 
+To tackle this project, I searched around for some data about earths population and birth rates. I came accross a [dataset](https://www.kaggle.com/datasets/danbraswell/temporary-us-births) courtesy of kaggle user danbraswell. 
 
 To begin I first imported the data to a jupyter notebook in order to do some data exploration and maybe some cleaning.
 
