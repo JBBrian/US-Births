@@ -1,5 +1,5 @@
 # SUMMARY
-We've all heard chatter about the earths growing population from family and friends. I always found those conversations interesting with some people even believing that one day we'll run out of resources to sustain the population. I decided to dive deeper on that topic, on a admittedly smaller scale, by analyzing the United States birth rates.
+I chose to take on this project in order to get some insight on the cultural/social implications on pregnancy. I wanted to answer questions like.
 # OVERVIEW
 Once my interest was peaked, I searched around for some data about earths population and birth rates. I came accross a [dataset](https://www.kaggle.com/datasets/danbraswell/temporary-us-births) courtesy of kaggle user danbraswell. 
 
