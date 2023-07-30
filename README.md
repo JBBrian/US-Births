@@ -8,6 +8,12 @@ To begin I first imported the data to a jupyter notebook in order to do some dat
 
 ![Data Preview](https://github.com/JBBrian/US-Births/blob/9a861177d31c5a25ba955ef0b181188282daa98b/DATA-PREVIEW.png)
 
+# RESEARCH QUESTIONS
+- Which state has the most births?
+- Have births decrease over the past decade?
+- What is the typical age of a pregnant mother?
+- Do mothers with higher education get pregnant more?
+
 After exploring the data, I imported the set into Tableau to begin creating and structuring a beautiful dashboard to help consume and visualize the data in a more digestible way.
 
 [Tableau Dash](https://public.tableau.com/app/profile/brian.tapia/viz/USBirthsData/Dashboard1?publish=yes)
